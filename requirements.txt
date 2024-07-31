@@ -1,0 +1,4 @@
+flet==0.22.*
+numpy
+pyaudio
+pyperclip
